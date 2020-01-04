@@ -1,0 +1,19 @@
+.text-white {
+  color: white;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-dark {
+  color: #333;
+}
+
+.text-light {
+  color: #fff;
+}
+
+body {
+  font-family: sans-serif;
+}

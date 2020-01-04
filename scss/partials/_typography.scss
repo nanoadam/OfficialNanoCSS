@@ -1,0 +1,15 @@
+// Font Color
+.text- {
+  &white {
+    color: white;
+  }
+  &black {
+    color: black;
+  }
+  &dark {
+    color: #333;
+  }
+  &light {
+    color: #fff;
+  }
+}
